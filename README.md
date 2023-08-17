@@ -1,8 +1,6 @@
 # Job Tracker Platform
 
-![Job Tracker Platform](link_to_project_screenshot.png)
-
-## Overview
+![Job Tracker Platform](https://jobster-webapp.netlify.app)
 
 ## Overview
 
