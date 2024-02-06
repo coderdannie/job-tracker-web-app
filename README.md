@@ -1,6 +1,6 @@
 # Job Tracker Platform
 
-![Job Tracker Platform](https://jobster-webapp.netlify.app)
+![Job Tracker Platform](https://job-tracker-web-app.vercel.app/)
 
 ## Overview
 
